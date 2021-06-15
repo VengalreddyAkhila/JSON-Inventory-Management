@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON-InventoryDataManagement", "JSON-InventoryDataManagement\JSON-InventoryDataManagement.csproj", "{02A8FA0C-3D9C-402D-9768-C5642585B764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A8FA0C-3D9C-402D-9768-C5642585B764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A8FA0C-3D9C-402D-9768-C5642585B764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A8FA0C-3D9C-402D-9768-C5642585B764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A8FA0C-3D9C-402D-9768-C5642585B764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8029B96-E58C-46D8-B92D-176A82B6A6E9}
+	EndGlobalSection
+EndGlobal
